@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/minsikim-42)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/minsikim-42)](https://github.com/minsikim-42/badge42)
 
 ![name’s GitHub stats](https://github-readme-stats.vercel.app/api?username=minsikim-42&show_icons=true&theme=tokyonight)
