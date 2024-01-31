@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![name’s GitHub stats](https://github-readme-stats.vercel.app/api?username=minsikim-42&show_icons=true&theme=tokyonight)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=spalstlr321)](https://solved.ac/spalstlr321)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=spalstlr321)](https://solved.ac/profile/spalstlr321)
