@@ -14,13 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![minsikim's 42 stats](https://badge42.herokuapp.com/api/stats/minsikim)](https://github.com/minsikim-42/badge42)
-
-![name’s GitHub stats](https://github-readme-stats.vercel.app/api?username=minsikim-42&show_icons=true&theme=tokyonight)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=spalstlr321)](https://solved.ac/profile/spalstlr321)
-
-(Portfolio) [https://minsikim-42.github.io/](https://minsikim-42.github.io/)
 
 (Velog) [https://velog.io/@wuriae/posts](https://velog.io/@wuriae/posts)
 
