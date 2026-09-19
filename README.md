@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=spalstlr321)](https://solved.ac/profile/spalstlr321)
 
-우리에 게임즈 [uriegames.github.io](uriegames.github.io)
+우리에 게임즈 [https://uriegames.github.io](https://uriegames.github.io)
+
+식월드 [https://minsikim-42.github.io](https://minsikim-42.github.io)
 
 (Velog) [https://velog.io/@wuriae/posts](https://velog.io/@wuriae/posts)
